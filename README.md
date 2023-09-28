@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/jb4skekkse2myato?svg=true)]()
+[![Build status](https://ci.appveyor.com/api/projects/status/jb4skekkse2myato?svg=true)](https://ci.appveyor.com/project/Dimafdr/ajs-hw9)
 
 
 # Домашнее задание к лекции «Регулярные выражения»
